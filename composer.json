@@ -1,11 +1,11 @@
 {
-    "name": "halaxa/json-machine",
+    "name": "droptienda/json-machine",
     "description": "Efficient, easy-to-use and fast JSON pull parser",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Filip Halaxa",
-            "email": "filip@halaxa.cz"
+            "name": "dt-rocks",
+            "email": "mailto:droptienda@luminouslabsbd.com"
         }
     ],
     "scripts": {
